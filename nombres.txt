@@ -1,0 +1,150 @@
+Juan Martínez
+18
+1.75
+María González
+16
+1.68
+Carlos Rodríguez
+19
+1.80
+Ana Pérez
+17
+1.65
+Luis Hernández
+15
+1.72
+Laura Díaz
+20
+1.70
+Javier Sánchez
+14
+1.78
+Paula López
+18
+1.73
+Daniel Torres
+16
+1.76
+Marta Ramírez
+19
+1.68
+Alejandro Ruiz
+15
+1.79
+Carolina García
+17
+1.67
+Sergio Vargas
+14
+1.81
+Elena Castro
+20
+1.69
+Francisco Molina
+18
+1.74
+Isabel Flores
+16
+1.71
+Raúl Medina
+19
+1.76
+Silvia Herrera
+15
+1.68
+Andrés Gómez
+17
+1.75
+Patricia Jiménez
+14
+1.82
+Diego Ortega
+18
+1.70
+Beatriz Navarro
+16
+1.77
+Omar Castillo
+19
+1.73
+Jessica Peralta
+15
+1.69
+Guillermo Ríos
+20
+1.81
+Adriana Torres
+17
+1.72
+Ángel Soto
+14
+1.79
+Laura Cervantes
+18
+1.75
+Julio Mendoza
+16
+1.68
+Carmen Varela
+19
+1.76
+Raúl Guzmán
+15
+1.70
+Valeria Torres
+20
+1.74
+Luisa Sánchez
+17
+1.67
+Mario Ramírez
+14
+1.78
+Ana Martínez
+18
+1.73
+Juan Pablo González
+16
+1.76
+Andrea Rodríguez
+19
+1.69
+Miguel Pérez
+15
+1.81
+Natalia Díaz
+20
+1.68
+Francisco Sánchez
+17
+1.75
+Mariana Hernández
+14
+1.80
+Alejandro Díaz
+18
+1.71
+Carolina López
+16
+1.79
+Víctor Torres
+19
+1.72
+Gabriela Ramírez
+15
+1.67
+Roberto Martínez
+20
+1.75
+Isabel Sánchez
+17
+1.69
+José González
+14
+1.82
+Laura Flores
+18
+1.74
+Carlos Mendoza
+16
+1.74
